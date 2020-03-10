@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "Products.Repository": {
+      "commandName": "Project"
+    }
+  }
+}

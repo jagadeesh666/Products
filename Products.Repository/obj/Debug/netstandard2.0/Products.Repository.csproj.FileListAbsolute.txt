@@ -1,0 +1,9 @@
+C:\Users\jagadeeshm\source\repos\ProductsDataTable-master\Products.Repository\bin\Debug\netstandard2.0\Products.Repository.deps.json
+C:\Users\jagadeeshm\source\repos\ProductsDataTable-master\Products.Repository\bin\Debug\netstandard2.0\Products.Repository.dll
+C:\Users\jagadeeshm\source\repos\ProductsDataTable-master\Products.Repository\bin\Debug\netstandard2.0\Products.Repository.pdb
+C:\Users\jagadeeshm\source\repos\ProductsDataTable-master\Products.Repository\obj\Debug\netstandard2.0\Products.Repository.csprojAssemblyReference.cache
+C:\Users\jagadeeshm\source\repos\ProductsDataTable-master\Products.Repository\obj\Debug\netstandard2.0\Products.Repository.csproj.CoreCompileInputs.cache
+C:\Users\jagadeeshm\source\repos\ProductsDataTable-master\Products.Repository\obj\Debug\netstandard2.0\Products.Repository.AssemblyInfoInputs.cache
+C:\Users\jagadeeshm\source\repos\ProductsDataTable-master\Products.Repository\obj\Debug\netstandard2.0\Products.Repository.AssemblyInfo.cs
+C:\Users\jagadeeshm\source\repos\ProductsDataTable-master\Products.Repository\obj\Debug\netstandard2.0\Products.Repository.dll
+C:\Users\jagadeeshm\source\repos\ProductsDataTable-master\Products.Repository\obj\Debug\netstandard2.0\Products.Repository.pdb
