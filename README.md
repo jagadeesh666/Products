@@ -22,7 +22,5 @@ Solution has 3 projects
 1) Products.Repository has the code for creating TableA in Sterling, Table B is in the conversion to Euros
 2) Products.Tests has unit tests has a scenario which covers all postive and negative tests using SHOULD
 3) Product.E2ETests has E2E tests using specflow BDD
-#This project is to test as below 
 
-#steps to execute scenarios
-Clone the Product Solution
+
