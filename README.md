@@ -5,14 +5,18 @@ Table A is in Sterling, Table B is the conversion to Euros. Write a test to chec
 
 #Test Strategy : Applied TestPyramid approach where functionality is covered through unit tests and E2E tests
 
-Clone the solution: https://github.com/jagadeesh666/Products.git using visual studio
 
 Steps to Follow:
-*Pre-requsite: Install visual studio ,configure git and navigate to path clone the project
-*git clone https://github.com/jagadeesh666/Products.git
-*open the products soloutin in visual studio
-*build the solution
-*open test explorer and click on RunAll and verify that the both unit tests and specflow tests are executed successfully
+
+>Pre-requsite: Install visual studio ,configure git and navigate to path clone the project
+
+>git clone https://github.com/jagadeesh666/Products.git
+
+>open the products solution in visual studio
+
+>build the solution
+
+>open test explorer and click on RunAll and verify that the both unit tests and specflow tests are executed successfully
 
 Solution has 3 projects 
 1) Products.Repository has the code for creating TableA in Sterling, Table B is in the conversion to Euros
