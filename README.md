@@ -8,7 +8,7 @@ Table A is in Sterling, Table B is the conversion to Euros. Write a test to chec
 
 Steps to Follow:
 
->Pre-requsite: Install visual studio ,configure git and navigate to path clone the project
+>Pre-requsite: Install visual studio ,configure git and navigate to path, to clone the project
 
 >git clone https://github.com/jagadeesh666/Products.git
 
